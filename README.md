@@ -1,6 +1,8 @@
 This is a Windows Batch Script designed to simplify the connection and launch of the scrcpy screen mirroring tool
 https://github.com/Genymobile/scrcpy
 
+Will fork and contribute after it matures a little.
+
 this script primarily focusing on automated Wi-Fi connections.
 
 ✨ Features
